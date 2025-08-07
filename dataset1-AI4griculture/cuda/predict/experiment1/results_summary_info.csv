@@ -1,0 +1,6 @@
+Metric,Value
+Preprocess_ms,8.0
+Inference_ms,59.7
+Postprocess_ms,5.4
+Results_Directory,inference_benchmark_results.csv
+Tegrastats_Log,tegrastats_results.txt
