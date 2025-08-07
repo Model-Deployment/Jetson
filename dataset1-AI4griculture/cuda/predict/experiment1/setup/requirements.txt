@@ -1,0 +1,7 @@
+ultralytics
+numpy
+#numpy>=1.23.5
+psutil
+pymongo>=3.9.0
+#onnxruntime
+#matplotlib>=3.4
