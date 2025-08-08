@@ -1,0 +1,15 @@
+Image_Index,Total_Images,Image_Path,Width,Height,Object_Count,Time_ms
+3,24,/app/Datasets/AI4griculture/test/images/1597912869100.jpg,640,480,1,54.2
+5,24,/app/Datasets/AI4griculture/test/images/1597913693056.jpg,640,480,1,37.6
+6,24,/app/Datasets/AI4griculture/test/images/1597922717216.jpg,480,640,2,37.8
+7,24,/app/Datasets/AI4griculture/test/images/1597923601769.jpg,640,480,1,37.9
+8,24,/app/Datasets/AI4griculture/test/images/1597923993611.jpg,640,480,3,35.9
+9,24,/app/Datasets/AI4griculture/test/images/1597924240796.jpg,480,640,1,37.9
+11,24,/app/Datasets/AI4griculture/test/images/1597934907942.jpg,480,640,1,36.3
+12,24,/app/Datasets/AI4griculture/test/images/1598001129497.jpg,480,640,3,36.2
+13,24,/app/Datasets/AI4griculture/test/images/1598008270411.jpg,480,640,11,36.3
+14,24,/app/Datasets/AI4griculture/test/images/1598011515988.jpg,480,640,13,36.2
+15,24,/app/Datasets/AI4griculture/test/images/1598012068631.jpg,480,640,4,36.2
+19,24,/app/Datasets/AI4griculture/test/images/1599031182869.jpg,480,640,2,36.3
+21,24,/app/Datasets/AI4griculture/test/images/1601969690309.jpg,480,640,5,36.2
+22,24,/app/Datasets/AI4griculture/test/images/1601980429759.jpg,480,640,3,36.3
